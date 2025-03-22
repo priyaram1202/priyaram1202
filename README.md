@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @priyaram1202
-- 👀 I’m interested in softare development & front- end development
+- 👀 I’m interested in software development & front- end development
 - 🌱 I’m currently learning python
 - 📫 How to reach me -priyaram1202@gmail.com
 
